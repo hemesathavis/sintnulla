@@ -1,0 +1,4 @@
+.myElement {
+  color: $gray; /* Using the variable to set the text color */
+  background-color: #fff; /* Setting the background color to white */
+}
